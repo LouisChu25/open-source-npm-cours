@@ -1,0 +1,19 @@
+{
+  "name": "iim-cours-test",
+  "version": "1.0.0",
+  "description": "Projet de cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisChu25/open-source-npm-cours.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisChu25/open-source-npm-cours/issues"
+  },
+  "homepage": "https://github.com/LouisChu25/open-source-npm-cours#readme"
+}
