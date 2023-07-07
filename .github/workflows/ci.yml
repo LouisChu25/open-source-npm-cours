@@ -29,4 +29,4 @@ jobs:
       - name: "Publish to NPM"
         uses: JS-DevTools/npm-publish@v2
         with:
-          token: $({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})
+          token: $({secrets.NPM_TOKEN})
